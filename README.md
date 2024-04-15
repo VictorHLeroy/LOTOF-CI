@@ -18,3 +18,7 @@ O programa solicitará que você informe um número de 0 a 100, uma letra do alf
 ## Observações:
 Este programa é apenas um simulador e não permite a participação real na Loteria Federal.
 Os resultados do simulador não garantem a premiação em um concurso real da Loteria Federal.
+
+
+https://github.com/VictorHLeroy/LOTOF-CI/assets/146036710/fa92ef49-31a9-42f3-a29f-021944f0ba0d
+
